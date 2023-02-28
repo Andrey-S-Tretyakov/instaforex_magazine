@@ -1,0 +1,62 @@
+[
+  {
+    "x": 30,
+    "y": 100,
+    "width": 280,
+    "height": 85,
+    "class": "link",
+    "data": {
+      "url": "https://www.instaforex.com/ru/nodeposit_bonus"
+    }
+  },
+  {
+    "x": 325,
+    "y": 100,
+    "width": 280,
+    "height": 85,
+    "class": "link",
+    "data": {
+      "url": "https://www.instaforex.com/ru/250bonus"
+    }
+  },
+  {
+    "x": 30,
+    "y": 360,
+    "width": 280,
+    "height": 85,
+    "class": "link",
+    "data": {
+      "url": "http://liverpoolfc.instaforex.com/ru/bonus"
+    }
+  },
+  {
+    "x": 325,
+    "y": 360,
+    "width": 280,
+    "height": 85,
+    "class": "link",
+    "data": {
+      "url": "https://www.instaforex.com/ru/55bonus"
+    }
+  },
+  {
+    "x": 30,
+    "y": 620,
+    "width": 280,
+    "height": 85,
+    "class": "link",
+    "data": {
+      "url": "https://www.instaforex.com/ru/forex_bonus"
+    }
+  },
+  {
+    "x": 325,
+    "y": 620,
+    "width": 280,
+    "height": 85,
+    "class": "link",
+    "data": {
+      "url": "https://www.instaforex.com/ru/forex_club_bonus"
+    }
+  }
+]

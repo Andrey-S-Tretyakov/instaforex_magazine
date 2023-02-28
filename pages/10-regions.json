@@ -1,0 +1,62 @@
+[
+  {
+    "x": 28,
+    "y": 185,
+    "width": 276,
+    "height": 240,
+    "class": "link",
+    "data": {
+      "url": "https://www.instaforex.com/ru/contest_forex_jaguar"
+    }
+  },
+  {
+    "x": 334,
+    "y": 185,
+    "width": 276,
+    "height": 240,
+    "class": "link",
+    "data": {
+      "url": "https://www.instaforex.com/ru/contest_bmw"
+    }
+  },
+  {
+    "x": 28,
+    "y": 450,
+    "width": 180,
+    "height": 200,
+    "class": "link",
+    "data": {
+      "url": "https://www.instaforex.com/ru/contest_forex_device"
+    }
+  },
+  {
+    "x": 230,
+    "y": 450,
+    "width": 180,
+    "height": 200,
+    "class": "link",
+    "data": {
+      "url": "https://www.instaforex.com/ru/greatrace"
+    }
+  },
+  {
+    "x": 430,
+    "y": 450,
+    "width": 180,
+    "height": 200,
+    "class": "link",
+    "data": {
+      "url": "https://www.instaforex.com/ru/contest_chancy_deposit"
+    }
+  },
+  {
+    "x": 130,
+    "y": 675,
+    "width": 380,
+    "height": 170,
+    "class": "link",
+    "data": {
+      "url": "https://www.instaforex.com/ru/beauty_contest_instaforex"
+    }
+  }
+]

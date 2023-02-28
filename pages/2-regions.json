@@ -1,0 +1,12 @@
+[
+  {
+    "x": 60,
+    "y": 130,
+    "width": 400,
+    "height": 23,
+    "class": "link-nav",
+    "data": {
+      "url": "#page/4"
+    }
+  }
+]
